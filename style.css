@@ -23,7 +23,7 @@ h1 {
 
 .list {
     display: flex;
-    flex-wrap: row wrap;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 15px;
     padding: 0;
@@ -218,7 +218,7 @@ footer {
     }
 
     .list {
-        flex-wrap: row;
+        flex-wrap: row wrap;
         align-items: center;
         gap: 8px;
     }
